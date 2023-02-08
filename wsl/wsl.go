@@ -6,8 +6,8 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/DataDog/nikos/extract"
-	"github.com/DataDog/nikos/types"
+	"github.com/jeffweiss/nikos/extract"
+	"github.com/jeffweiss/nikos/types"
 )
 
 type Backend struct {

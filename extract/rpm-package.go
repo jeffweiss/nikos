@@ -6,7 +6,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/DataDog/nikos/types"
+	"github.com/jeffweiss/nikos/types"
 	"github.com/sassoftware/go-rpmutils"
 )
 

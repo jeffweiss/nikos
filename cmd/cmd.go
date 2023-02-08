@@ -8,11 +8,11 @@ import (
 	log "github.com/sirupsen/logrus"
 	"github.com/spf13/cobra"
 
-	"github.com/DataDog/nikos/apt"
-	"github.com/DataDog/nikos/cos"
-	"github.com/DataDog/nikos/rpm"
-	"github.com/DataDog/nikos/types"
-	"github.com/DataDog/nikos/wsl"
+	"github.com/jeffweiss/nikos/apt"
+	"github.com/jeffweiss/nikos/cos"
+	"github.com/jeffweiss/nikos/rpm"
+	"github.com/jeffweiss/nikos/types"
+	"github.com/jeffweiss/nikos/wsl"
 )
 
 var (

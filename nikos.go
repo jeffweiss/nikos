@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/DataDog/nikos/cmd"
+	"github.com/jeffweiss/nikos/cmd"
 )
 
 func main() {

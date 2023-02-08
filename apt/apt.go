@@ -19,8 +19,8 @@ import (
 	"github.com/arduino/go-apt-client"
 	"github.com/xor-gate/ar"
 
-	"github.com/DataDog/nikos/extract"
-	"github.com/DataDog/nikos/types"
+	"github.com/jeffweiss/nikos/extract"
+	"github.com/jeffweiss/nikos/types"
 )
 
 type Backend struct {

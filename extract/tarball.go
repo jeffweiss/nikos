@@ -10,7 +10,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/DataDog/nikos/types"
+	"github.com/jeffweiss/nikos/types"
 	"github.com/DataDog/zstd"
 	"github.com/xi2/xz"
 )

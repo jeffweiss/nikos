@@ -6,8 +6,8 @@ import (
 	"fmt"
 
 	"cloud.google.com/go/storage"
-	"github.com/DataDog/nikos/extract"
-	"github.com/DataDog/nikos/types"
+	"github.com/jeffweiss/nikos/extract"
+	"github.com/jeffweiss/nikos/types"
 	"google.golang.org/api/option"
 )
 
