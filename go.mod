@@ -1,4 +1,4 @@
-module github.com/DataDog/nikos
+module github.com/jeffweiss/nikos
 
 go 1.18
 
