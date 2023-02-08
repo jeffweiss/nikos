@@ -10,7 +10,7 @@ import (
 	"io"
 	"net/http"
 
-	"github.com/DataDog/nikos/rpm/dnfv2/types"
+	"github.com/jeffweiss/nikos/rpm/dnfv2/types"
 )
 
 func GetAndUnmarshalXML[T any](httpClient *http.Client, url string, checksum *types.Checksum) (*T, error) {

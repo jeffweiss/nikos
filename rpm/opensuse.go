@@ -4,10 +4,10 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/DataDog/nikos/rpm/dnfv2"
-	"github.com/DataDog/nikos/rpm/dnfv2/backend"
-	"github.com/DataDog/nikos/rpm/dnfv2/repo"
-	"github.com/DataDog/nikos/types"
+	"github.com/jeffweiss/nikos/rpm/dnfv2"
+	"github.com/jeffweiss/nikos/rpm/dnfv2/backend"
+	"github.com/jeffweiss/nikos/rpm/dnfv2/repo"
+	"github.com/jeffweiss/nikos/types"
 )
 
 type OpenSUSEBackend struct {

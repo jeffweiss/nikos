@@ -6,8 +6,8 @@ import (
 	"os"
 	"regexp"
 
-	"github.com/DataDog/nikos/rpm/dnfv2"
-	"github.com/DataDog/nikos/types"
+	"github.com/jeffweiss/nikos/rpm/dnfv2"
+	"github.com/jeffweiss/nikos/types"
 )
 
 func NewAmazonLinux2022Backend(target *types.Target, reposDir string, logger types.Logger) (*RedHatBackend, error) {

@@ -5,8 +5,8 @@ import (
 	"os"
 	"strings"
 
-	"github.com/DataDog/nikos/rpm/dnfv2/internal/utils"
-	"github.com/DataDog/nikos/rpm/dnfv2/repo"
+	"github.com/jeffweiss/nikos/rpm/dnfv2/internal/utils"
+	"github.com/jeffweiss/nikos/rpm/dnfv2/repo"
 	"github.com/hashicorp/go-multierror"
 )
 

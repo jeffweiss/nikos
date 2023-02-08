@@ -18,8 +18,8 @@ import (
 	"golang.org/x/crypto/openpgp"
 	"gopkg.in/ini.v1"
 
-	"github.com/DataDog/nikos/rpm/dnfv2/internal/utils"
-	"github.com/DataDog/nikos/rpm/dnfv2/types"
+	"github.com/jeffweiss/nikos/rpm/dnfv2/internal/utils"
+	"github.com/jeffweiss/nikos/rpm/dnfv2/types"
 	"github.com/hashicorp/go-multierror"
 	"github.com/sassoftware/go-rpmutils"
 )
