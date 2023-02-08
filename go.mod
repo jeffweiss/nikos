@@ -5,13 +5,13 @@ go 1.18
 require (
 	cloud.google.com/go/storage v1.29.0
 	github.com/DataDog/aptly v1.5.0
-	github.com/DataDog/gopsutil v1.2.2
+	github.com/jeffweiss/gopsutil v1.2.4-jeff.1
 	github.com/DataDog/zstd v1.5.2
 	github.com/acobaugh/osrelease v0.1.0
 	github.com/arduino/go-apt-client v0.0.0-20190812130613-5613f843fdc8
 	github.com/hashicorp/go-multierror v1.1.1
 	github.com/sassoftware/go-rpmutils v0.2.0
-	github.com/shirou/gopsutil/v3 v3.22.12
+	github.com/jeffweiss/gopsutil/v3 v3.23.3-jeff.1
 	github.com/sirupsen/logrus v1.9.0
 	github.com/spf13/cobra v1.6.1
 	github.com/stretchr/testify v1.8.1

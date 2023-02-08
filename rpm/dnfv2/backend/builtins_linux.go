@@ -3,7 +3,7 @@ package backend
 import (
 	"fmt"
 
-	"github.com/shirou/gopsutil/v3/host"
+	"github.com/jeffweiss/gopsutil/v3/host"
 )
 
 func ComputeBuiltinVariables(releaseVersion string) (map[string]string, error) {
